@@ -18,6 +18,12 @@ Check it out.
 
 ![Beenine](media/beenine.png)
 
+## FAQ
+
+### Q: What do bees have to do with this?
+
+A: Absolutely nothing.
+
 ## License
 
 Beenine is licensed under the [WTFPL](https://github.com/celsiusnarhwal/beenine/blob/HEAD/LICENSE.md).
