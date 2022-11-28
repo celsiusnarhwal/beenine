@@ -10,7 +10,7 @@ Launch Schemarin and follow the prompts to add color schemes from a GitHub repos
 
 ### Manual Installation
 
-Clone this repository, then open iTerm2 and go to `Preferences` > `Profiles` > `Colors` > `Color Presets...` > `Import...`. Navigate to `Beenine.itermcolors` and click `Open`.
+Clone this repository, then open iTerm2 and go to `Preferences...` > `Profiles` > `Colors` > `Color Presets...` > `Import...`. Navigate to `Beenine.itermcolors` and click `Open`.
 
 ## Preview
 
